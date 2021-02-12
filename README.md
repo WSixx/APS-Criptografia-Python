@@ -2,6 +2,8 @@
 
 ## “AS TÉCNICAS CRIPTOGRÁFICAS, CONCEITOS, USOS E APLICAÇÕES”
 
+### Atividades Práticas Supervisionadas (APS)
+<br>
 O grupo de alunos deverá, através de fontes formais de informação, aplicar à
 utilização do conceito de criptografia num caso específico que envolve
 restrição de acesso a uma área contaminada ambientalmente que contenha
